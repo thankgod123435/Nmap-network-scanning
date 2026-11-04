@@ -20,8 +20,13 @@ IP addr
 ### 3. Scan Localhost
 command:
 nmap 127.0.0.1
-### Result
-screenshots and observation will be added here.
+## Project Evidence
+### 1. Nmap Version
+![Nmap Version](nmap-version.png)
+### 2. Kali Linux IP Address
+![kali IP Address](kali-ip-address.png)
+### 3. Localhost Network Scan
+![Nmap Scan](localhost-nmap-scan.png)
 ## What i learned
 - Basic Nmap commands.
 - IP address idenfication.
